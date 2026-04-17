@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit32&label=Profile%20views&color=0e75b6&style=flat" alt="sujit32" /> </p>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <span style="display:inline-block; margin:10px;">
     <a href="https://linkedin.com/in/sujit-shrestha" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <span style="display:inline-block; margin:10px;">
