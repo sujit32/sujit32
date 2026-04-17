@@ -16,7 +16,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <span style="display:inline-block; margin:10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
   </span>
@@ -37,6 +37,18 @@
   </span>
   <span style="display:inline-block; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" />
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
   </span>
 </p>
 
