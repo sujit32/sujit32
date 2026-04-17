@@ -42,14 +42,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
   </span>
   <span style="display:inline-block; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" />
-  </span>
-  <span style="display:inline-block; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
   </span>
-  <span style="display:inline-block; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
-  </span>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit32&show_icons=true&locale=en&layout=compact" alt="sujit32" /></p>
