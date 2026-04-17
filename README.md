@@ -45,9 +45,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
   </span>
   <span style="display:inline-block; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
-  </span>
-  <span style="display:inline-block; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
   </span>
   <span style="display:inline-block; margin:10px;">
