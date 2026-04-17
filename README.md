@@ -6,11 +6,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit32&label=Profile%20views&color=0e75b6&style=flat" alt="sujit32" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujit shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit shrestha" height="30" width="40" /></a>
-  <a href="https://fb.com/https://www.facebook.com/sujit.shrestha.9022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sujit.shrestha.9022" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/iamsujiiiit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamsujiiiit/" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <span style="display:inline-block; margin:10px;">
+    <a href="https://linkedin.com/in/sujit-shrestha" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
+    </a>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <a href="https://www.facebook.com/sujit.shrestha.9022" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" />
+    </a>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <a href="https://www.instagram.com/iamsujiiiit/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
+    </a>
+  </span>
 </p>
 
 
