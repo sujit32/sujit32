@@ -38,8 +38,8 @@
   <span style="display:inline-block; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   </span>
-  <span style="display:inline-block; margin:10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+ <span style="display:inline-block; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
   </span>
   <span style="display:inline-block; margin:10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
