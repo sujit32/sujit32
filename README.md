@@ -71,36 +71,6 @@
 
 </p>
 
----
-
-## 📊 Data Analysis Skills
-
-* **Python:** Pandas, NumPy, Matplotlib
-* **SQL:** Joins, CTEs, Subqueries, Window Functions, Aggregations
-* **Power BI:** Power Query, DAX, Data Modeling, Dashboards
-* **Excel:** Pivot Tables, Lookups, Data Cleaning, Reporting
-* **Data Cleaning & Preprocessing**
-* **Exploratory Data Analysis (EDA)**
-* **Statistical Analysis**
-* **Data Visualization**
-* **Business Intelligence**
-
----
-
-## 💻 Frontend Development Skills
-
-* **HTML5 & CSS3**
-* **JavaScript & TypeScript**
-* **React.js**
-* **Next.js**
-* **Tailwind CSS**
-* **Responsive Web Design**
-* **REST API Integration**
-* **State Management**
-* **Git & GitHub**
-
----
-
 ## 📈 Featured Data Analytics Projects
 
 ### 🏥 Healthcare — Diabetes Hospital Readmission Analysis
