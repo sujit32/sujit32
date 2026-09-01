@@ -99,7 +99,6 @@
 * **Next.js**
 * **Tailwind CSS**
 * **Responsive Web Design**
-* **UI/UX Implementation**
 * **REST API Integration**
 * **State Management**
 * **Git & GitHub**
