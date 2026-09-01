@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 📊 Passionate about **Data Analysis & Business Intelligence**
 * 💻 Frontend Developer interested in building **modern web applications**
@@ -28,9 +28,9 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
-### 📊 Data Analysis
+### Data Analysis
 
 <p align="left">
 
@@ -45,7 +45,7 @@
 
 </p>
 
-### 💻 Frontend Development
+### Frontend Development
 
 <p align="left">
 
@@ -59,7 +59,7 @@
 
 </p>
 
-### 🔧 Development & Tools
+### Development & Tools
 
 <p align="left">
 
@@ -71,9 +71,9 @@
 
 </p>
 
-## 📈 Featured Data Analytics Projects
+## Featured Data Analytics Projects
 
-### 🏥 Healthcare — Diabetes Hospital Readmission Analysis
+### Healthcare — Diabetes Hospital Readmission Analysis
 
 Analyzed diabetic patient hospital encounters to identify factors associated with **30-day hospital readmission**.
 
@@ -92,7 +92,7 @@ Analyzed diabetic patient hospital encounters to identify factors associated wit
 
 ---
 
-### 🛒 E-Commerce Sales & Customer Analytics
+### E-Commerce Sales & Customer Analytics
 
 Analyzed e-commerce data to understand **sales performance, customer behavior, product performance, order trends, and payment patterns**.
 
@@ -110,11 +110,11 @@ Analyzed e-commerce data to understand **sales performance, customer behavior, p
 * Customer retention
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/sujit-shrestha" target="_blank">
+<a href="https://www.linkedin.com/in/sujit-shrestha-a2587a215/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
 </a>
 
