@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  My interests include <strong>Data Analysis, Business Intelligence, Frontend Development, Data Visualization, UI/UX, and modern web technologies</strong>. I continuously learn and work on practical projects to improve my analytical and development skills.
+  My interests include <strong>Data Analysis, Business Intelligence, Frontend Development, Data Visualization, and modern web technologies</strong>. I continuously learn and work on practical projects to improve my analytical and development skills.
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@
 * 🗄️ Experienced with **SQL and database analysis**
 * 📈 Creating dashboards and reports using **Power BI**
 * 🌐 Building responsive interfaces using **React and Next.js**
-* 🎨 Interested in **UI/UX and responsive web design**
 * 🧹 Experienced in **data cleaning, transformation, and EDA**
 * 📚 Continuously learning new technologies and analytical techniques
 * 🚀 Enjoy working on real-world projects and solving practical problems
@@ -145,53 +144,6 @@ Analyzed e-commerce data to understand **sales performance, customer behavior, p
 * Geographic sales
 * Customer retention
 
----
-
-## 🌐 Featured Frontend Projects
-
-### 🍔 Online Food Ordering System
-
-A responsive food ordering application that allows users to browse food items, manage their cart, and proceed through the ordering process.
-
-**Technologies:** React, Next.js, Tailwind CSS, REST APIs
-
----
-
-### 🏗️ Project Management System
-
-A modern web application designed to manage construction/project-related activities with a user-friendly and responsive interface.
-
-**Technologies:** Next.js, React, Tailwind CSS, API Integration
-
----
-
-## 🔄 My Workflow
-
-```text
-                    MY SKILLS
-                       │
-          ┌────────────┴────────────┐
-          │                         │
-     DATA ANALYSIS            FRONTEND DEVELOPMENT
-          │                         │
-     Python / SQL              React / Next.js
-          │                         │
-   Data Cleaning               UI / UX
-          │                         │
-       EDA                    Responsive Design
-          │                         │
-   Visualization             API Integration
-          │                         │
-     Power BI                     Web Apps
-          │                         │
-          └────────────┬────────────┘
-                       │
-                 REAL-WORLD
-                   PROJECTS
-```
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -214,14 +166,6 @@ A modern web application designed to manage construction/project-related activit
 
 <a href="https://linkedin.com/in/sujit-shrestha" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
-</a>
-
-<a href="https://www.facebook.com/sujit.shrestha.9022" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" />
-</a>
-
-<a href="https://www.instagram.com/iamsujiiiit/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" />
 </a>
 
 </p>
