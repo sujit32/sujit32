@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sujit Shrestha 👋</h1>
+<h1 align="center">Hi, I'm Sujit Shrestha </h1>
 
 <p align="center">
   <strong>Data Analyst | Frontend Developer | Data Enthusiast</strong>
@@ -10,10 +10,6 @@
 
 <p align="center">
   My interests include <strong>Data Analysis, Business Intelligence, Frontend Development, Data Visualization, and modern web technologies</strong>. I continuously learn and work on practical projects to improve my analytical and development skills.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujit32&label=Profile%20views&color=0e75b6&style=flat" alt="sujit32" />
 </p>
 
 ---
