@@ -142,21 +142,6 @@ Analyzed e-commerce data to understand **sales performance, customer behavior, p
 * Delivery performance
 * Geographic sales
 * Customer retention
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujit32&show_icons=true&locale=en" alt="Sujit's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit32&show_icons=true&locale=en&layout=compact" alt="Sujit's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit32" alt="Sujit's GitHub Streak" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
